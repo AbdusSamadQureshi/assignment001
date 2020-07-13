@@ -14,8 +14,7 @@ function App({name}) {
     <li>2ndPoint</li>
   </ol>
   {5 + 10}
-   </div>
- 
+   </div> 
 }
 
 export default App;
