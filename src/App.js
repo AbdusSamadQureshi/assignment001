@@ -1,5 +1,7 @@
 import React from 'react';
+
 import './App.css';
+
 
 function App({name}) {
   return <div class="myname" >Hello World <strong>{name}</strong>
